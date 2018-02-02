@@ -1,6 +1,6 @@
-# vuex-dynamic-module-use-case
+# vuex-dynamic-module-sample
 
-> A Vue.js project
+Vuexで動的モジュールを使用するサンプル。
 
 ## Build Setup
 
