@@ -1,6 +1,6 @@
 import Vue from 'vue';
 
-const userStab = {
+const userStub = {
   user_1: {
     uid: 1,
     name: 'Taro',
@@ -22,7 +22,7 @@ const userStab = {
 };
 
 const state = {
-  all: userStab
+  all: userStub
 };
 
 // mutation types
